@@ -1,16 +1,10 @@
 # simple_calculator
 
-A new Flutter project.
+This is my very first Flutter project.
+Implements some of the course and learning i have diggest.
 
-## Getting Started
+## learning
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Implement simple state management using provider (toggle dark and light mode)
+- String manipulation
+- Using operator for math problem
